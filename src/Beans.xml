@@ -21,7 +21,7 @@
     
      <bean id="emp1" class="com.hcl.beans.Employee">
     	<property name="eno" value="5199121"> </property>
-    	<property name="name" value="Kasun Yapa"> </property>
+    	<property name="name" value="Kasun Ishanka Yapa"> </property>
     	<property name="salary" value="60000"> </property>
         <property name="address" ref="addr1"> </property>
     </bean>
